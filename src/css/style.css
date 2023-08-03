@@ -1,0 +1,31 @@
+body{
+    background-color: #C1D8DE;
+    font-family: 'Source Code Pro', monospace;
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 15px 0px 15px;
+
+}
+.nav-elements{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap:15px;
+}
+.nav-btn{
+   color: #221D1D;
+}
+h1{
+    font-weight: bolder;
+    font-size:40px;
+    color: #FFFFFF;
+}
+.name-tag{
+    width: 75vw;
+    height: auto;
+}
